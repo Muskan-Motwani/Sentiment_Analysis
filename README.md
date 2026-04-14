@@ -52,7 +52,7 @@ The system helps in understanding customer opinions automatically, which is wide
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/Sentiment_Analysis.git
+git clone https://github.com/Muskan-Motwani/Sentiment_Analysis.git
 ```
 
 2. Install dependencies:
